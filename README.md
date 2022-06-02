@@ -1,13 +1,11 @@
 # ML_Project
 
-# Data_Hackthon
-
 ## 주관: 중소기업벤처부 이어드림 스쿨 2기
 
 <br>
 
+![image](https://user-images.githubusercontent.com/86671456/171619107-8d5506bf-349e-4163-9694-c3ad99adac9d.png)
 
-![picture1](https://user-images.githubusercontent.com/86671456/167774703-465e4eaf-00b1-4de2-be2a-eb7f20a428f6.png)
 
 ## Abstract
 
@@ -30,26 +28,25 @@
 
 ### Basic information
 
-**공식기간: 2022.05.09 ~ 2022.05.23**
+**공식기간: 2022.06.03 ~ 2022.06.14**
 
-**추가 시도: 2022.05.24 ~ 2022.06.06**
 
-- 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
-- 직책: 리더(Project Manager)
-- 데이터: E-commerce raw data(csv), crawled Voc data(txt, json)
-- 주 역할: Data Aggregation, Data Preprocessing, Data Cleaning, Feature engineering, Encoding, Modeling, Code Refactoring 
-- 보조 역할: Marketing paper Review, Data Visualization
-- 추가 역할:github-repo, 회의 기록 
-- 협업장소: Zep, Google Meet, off-line, 
-- 소통: Slack
-- 저장소: github, Google OS
-- 개발환경: Window & M1 Jupyter notebook, Colab, Visual Studio Code
-- 언어 : Python 3.8 , MySQL
-- 라이브러리: Numpy, Pandas, Scikit-learn
-- 시각화 라이브러리: Mataplotlib, Seaborn,Plotly,Plot, WordCloud
-- 시각화 도구: Tableau, Power BI, GA
-- 웹 크롤링: Selenium
-- 관리: Git, Vim, gitflow
+- 인원:
+- 직책: 
+- 데이터: 
+- 주 역할:
+- 보조 역할: 
+- 추가 역할:
+- 협업장소: 
+- 소통: 
+- 저장소: 
+- 개발환경: 
+- 언어 :
+- 라이브러리:
+- 시각화 라이브러리: 
+- 시각화 도구: 
+- 웹 크롤링: 
+- 관리: 
 
 <br>
 
