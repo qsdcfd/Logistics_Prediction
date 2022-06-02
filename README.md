@@ -24,12 +24,16 @@
 
 
 <br>
+
 ### Machine Learning Project 
+
+---
 
 |  소스 데이터 |     데이터 입수 난이도    |   
 |:------------------:| -----|
 || |   
 
+<br>
 
 ### Basic information
 
