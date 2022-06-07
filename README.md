@@ -1,25 +1,29 @@
 # ML_Project
 
+## 회의 및 아카이빙 
+
+https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
+
 ## 주관: 중소기업벤처부 이어드림 스쿨 2기
 
 <br>
 
-![image](https://user-images.githubusercontent.com/86671456/171619107-8d5506bf-349e-4163-9694-c3ad99adac9d.png)
+![image](https://user-images.githubusercontent.com/86671456/172179003-29299766-6706-4328-a3cf-4ee7684a9b82.png)
 
 
 ## Abstract
 
-| 분석명 |  
-|:-----:|
-|  |
+| 분석명 |목적|
+|:-----:|----------|
+|물류 유통량 예측 경진대회 | 제주시 내 택배 운송 데이터를 이용하여 운송량 예측 AI개발
 
 |  소스 데이터 |     데이터 입수 난이도    |      분석방법     |
 |:------------------:| -----|:---------------:|
-|| |   |
+|정형데이터(csv)|하 |EDA, Visualization, Regression   |
 
 |  분석 적용 난이도  |     분석적용 난이도 사유    |      분석주기     | 분석결과 검증 Owner|
 |:-----:| --------------------------------------- |:---------------:|----------------|
-| |   |  | 실습코치님, 이재원강사님, 고려대학교 강필성 교수님의 대학원생분들 |
+| 중| 실제 데이터를 가지고 머신러닝을 활용   |Daily  | 실습코치님, 이재원강사님, 고려대학교 강필성 교수님의 대학원생분들 |
 
 
 
@@ -48,22 +52,21 @@
 **공식기간: 2022.06.03 ~ 2022.06.14**
 
 
-- 인원:
+- 인원:김호민, 이근희, 이기수, 안세호, 이세현
 - 직책: 
 - 데이터: 
 - 주 역할:
 - 보조 역할: 
 - 추가 역할:
-- 협업장소: 
-- 소통: 
-- 저장소: 
-- 개발환경: 
-- 언어 :
-- 라이브러리:
-- 시각화 라이브러리: 
-- 시각화 도구: 
+- 협업장소: Github, GoogleMeet
+- 소통: Slack, Notion,Git project, Google OS
+- 저장소: Github, Google Drive
+- 개발환경: Visual studio code, Juypter Notebook, colab
+- 언어 :python 3.8.x
+- 라이브러리:Numpy,Pandas, Scikit-learn 1.1.x
+- 시각화 라이브러리: Seaborn, Matplotlib, Plot,Plotly  
+- 시각화 도구: Tableau, GA
 - 웹 크롤링: 
-- 관리: 
 
 <br>
 
@@ -75,3 +78,7 @@
 - test: test 관련
 - conf: 환경설정 관련
 - build: 데이터 집산
+- Definition: 프로젝트의 전반적인 문제 정의 및 내용 설정
+- Data: 전처리 파일 및 모델링을 위한 파일
+- models: 여러 모델들의 집합
+- src :scripts
