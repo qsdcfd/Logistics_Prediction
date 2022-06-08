@@ -64,7 +64,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 - 개발환경: Visual studio code, Juypter Notebook, colab
 - 언어 :python 3.8.x
 - 라이브러리:Numpy,Pandas, Scikit-learn 1.1.x, Keras, Tensorflow, Pytorch
-- 시각화 라이브러리: Seaborn, Matplotlib, Plot,Plotly  
+- 시각화 라이브러리: Seaborn, Matplotlib, Plot,Plotly, Tensorboard
 - 시각화 도구: Tableau, GA
 - 웹 크롤링: 
 
