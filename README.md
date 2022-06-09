@@ -32,6 +32,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 ### Machine Learning Project 
 
 ---
+**진행: 애자일 방법론**
 
 |  프로젝트 순서 |     Point    | 세부 내용 |  
 |:------------------:| -----|------|
@@ -53,11 +54,11 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 
 
 - 인원:김호민, 이근희, 이기수, 안세호, 이세현
-- 직책: 
-- 데이터: 
-- 주 역할:
-- 보조 역할: 
-- 추가 역할:
+- 직책: PL(Project Leader)
+- 데이터: Dacon 유통 데이터, 국토연구원, 도로교통부
+- 주 역할:Project Leading, Data 수집  및 가공 , 데이터 파이프라인 구축, ML/DL
+- 보조 역할: Data Preprocessing, EDA, Feature engineering
+- 추가 역할:회의록 작성, 창업 대회 참가 계획서
 - 협업장소: Github, GoogleMeet
 - 소통: Slack, Notion,Git project, Google OS
 - 저장소: Github, Google Drive
@@ -66,7 +67,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 - 라이브러리:Numpy,Pandas, Scikit-learn 1.1.x, Keras, Tensorflow, Pytorch
 - 시각화 라이브러리: Seaborn, Matplotlib, Plot,Plotly, Tensorboard
 - 시각화 도구: Tableau, GA
-- 웹 크롤링: 
+- 웹 크롤링: Slunimue
 
 <br>
 
