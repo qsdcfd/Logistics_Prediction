@@ -1,10 +1,8 @@
 # ML_Project
 
-## 회의 및 아카이빙 
 
-https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 
-## 주관: 중소기업벤처부 이어드림 스쿨 2기
+## 주관 데이콘 X 제주도청
 
 <br>
 
@@ -53,7 +51,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 **공식기간: 2022.06.03 ~ 2022.06.24**
 
 
-- 인원:김호민, 이근희, 이기수, 안세호, 이세현
+- 인원:[김호민](https://github.com/user3000013331), [이근희](https://github.com/pizzabuyer), 이기수, [안세호](https://github.com/Giga2roo), 이세현
 - 직책: PL(Project Leader)
 - 데이터: Dacon 유통 데이터, 국토연구원, 도로교통부
 - 주 역할:Project Leading, Data 수집  및 가공 , 데이터 파이프라인 구축, ML/DL
