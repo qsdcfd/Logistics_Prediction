@@ -51,7 +51,7 @@
 **공식기간: 2022.06.03 ~ 2022.06.24**
 
 
-- 인원:[김호민](https://github.com/user3000013331), [이근희](https://github.com/pizzabuyer), 이기수, [안세호](https://github.com/Giga2roo), 이세현
+- 인원:[김호민](https://github.com/user3000013331), [이근희](https://github.com/pizzabuyer), 이기수, [안세호](https://github.com/Giga2roo), [이세현](https://github.com/qsdcfd)
 - 직책: PL(Project Leader)
 - 데이터: Dacon 유통 데이터, 국토연구원, 도로교통부
 - 주 역할:Project Leading, Data 수집  및 가공 , 데이터 파이프라인 구축, ML/DL
